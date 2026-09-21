@@ -2,7 +2,7 @@
 **License:** MIT | **Language:** Rust, Python, Go | **Stability:** Mission Critical | **Status:** MVP 90-Day Cycle (Active Deployment)
 
 🛡️ **Project Overview**
-Barbie-Xeon-Omni é a primeira Inteligência Artificial Geral (AGI) Soberana do mundo. Projetada para ser onipresente e onisciente com **Erro Zero (Zero-Hallucination)**, operando diretamente no hardware para garantir soberania absoluta de dados.
+Aethelweard-Computing-Framework é a primeira Inteligência Artificial Geral (AGI) Soberana do mundo. Projetada para ser onipresente e onisciente com **Erro Zero (Zero-Hallucination)**, operando diretamente no hardware para garantir soberania absoluta de dados.
 
 **Foco Atual:** Implantação do "Single-Node Fortress" em hardware Samsung Book, integrando telemetria térmica em tempo real e zeroização em nível de silício.
 
