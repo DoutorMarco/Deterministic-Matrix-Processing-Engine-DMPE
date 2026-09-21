@@ -8,7 +8,7 @@ Aethelweard-Computing-Framework é a primeira Inteligência Artificial Geral (AG
 
 ---
 
-### 🧠 Arquitetura Core: The Xeon Engine (v55.8)
+### 🧠 Arquitetura Core: Aethelweard-Computing-Framework
 Diferente de IAs comerciais, a Barbie-Xeon-Omni opera sob uma estrutura de **Verificação Matemática & Lógica Simbólica**.
 
 *   **Hardware Layer (Rust/Bare-Metal):** Interface direta com o silício para segurança de memória e proteção antiforense.
