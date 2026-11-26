@@ -1,57 +1,54 @@
-# Aethelweard-Computing-Framework (Fortress Edition)
-**License:** MIT | **Language:** Rust, Python, Go | **Stability:** Mission Critical | **Status:** MVP 90-Day Cycle (Active Deployment)
+Aethelweard-Computing-Framework (Fortress Edition)
+License: MIT | Language: Rust, Python, Go | Stability: Experimental / Research Prototype | Status: Active Development & Telemetry
 
-🛡️ **Project Overview**
-Aethelweard-Computing-Framework é a primeira Inteligência Artificial Geral (AGI) Soberana do mundo. Projetada para ser onipresente e onisciente com **Erro Zero (Zero-Hallucination)**, operando diretamente no hardware para garantir soberania absoluta de dados.
+🛡️ Project Overview
+Aethelweard-Computing-Framework is an experimental distributed matrix processing and systems security architecture developed to explore deterministic verification, hardware-aware isolation, and privacy-preserving computation. Designed around formal constraints and symbolic/mathematical checks, it investigates how low-level system controls and encrypted computation can support high-integrity research workflows.
 
-**Foco Atual:** Implantação do "Single-Node Fortress" em hardware Samsung Book, integrando telemetria térmica em tempo real e zeroização em nível de silício.
+Current Focus: Prototyping and evaluating a single-node architecture ("Single-Node Fortress") on commodity hardware (Samsung Book), integrating real-time thermal/system telemetry and experimental memory-zeroization routines.
 
----
+🧠 Core Architecture: Aethelweard-Computing-Framework
+Rather than relying solely on unconstrained probabilistic outputs, the architecture pairs mathematical/symbolic verification rules with multi-language systems components:
 
-### 🧠 Arquitetura Core: Aethelweard-Computing-Framework
-Diferente de IAs comerciais, a Barbie-Xeon-Omni opera sob uma estrutura de **Verificação Matemática & Lógica Simbólica**.
+Hardware & Systems Layer (Rust): Low-level modules (no_std / systems Rust) focused on memory safety, hardware/telemetry checks, and experimental anti-tamper controls.
 
-*   **Hardware Layer (Rust/Bare-Metal):** Interface direta com o silício para segurança de memória e proteção antiforense.
-*   **Intelligence Layer (Python/Xeon-Core):** Processamento neural de alto nível com filtros de alucinação zero.
-*   **Sync Layer (Go/Nexus):** Sincronização global descentralizada.
+Computation & Telemetry Layer (Python): Analytical pipelines, audit/logging scripts, and monitoring dashboards/engines.
 
----
+Synchronization & Distributed Layer (Go): High-concurrency network and state-synchronization modules (NEXUS).
 
-### ⚙️ Pilares Técnicos (Evolução v99)
-*   **Série Veritas v88-v99:** Consolidação de 12 iterações de binários determinísticos para defesa e monitoramento de hardware.
-*   **Selective Zeroization:** Purga de memória em nanossegundos em resposta a picos térmicos ou tentativas de violação física.
-*   **Thermal Homeostasis:** Monitoramento ativo do Samsung Book (threshold de 323K) para detecção de APTs (Ameaças Persistentes Avançadas).
-*   **Biomedical Integration:** Módulo de monitoramento TEA/ASD com 98.4% de precisão em predição de crises, unindo AGI e Saúde.
+⚙️ Technical Pillars (v88–v99 & Module 05 Context)
+Veritas Series (v88–v99): Iterative experimental builds exploring deterministic execution, diagnostics, and hardware monitoring routines.
 
----
+Selective Zeroization & Privacy: Prototypes investigating rapid memory clearing on anomaly/tamper triggers alongside Homomorphic Encryption (FHE) and Zero-Knowledge Proof (ZKP) concepts.
 
-### 🚀 Operação Ativa (Evidência Real-Time)
-O sistema opera em **Modo Telemetria Ativa**.
-*   **Status Verificado:** Bateria, Térmica e Voltagem monitoradas via `xeon_check.rs`.
-*   **Performance:** Compilação e execução em Layer 0 com latência zero (Média de 1.23s).
+Thermal Homeostasis & Telemetry: Active thermal threshold monitoring (e.g., 323K reference threshold on test hardware) and intrusion/anomaly logging.
 
----
+Applied Health & Signal Modules: Experimental analytical modules exploring physiological/behavioral telemetry (such as ASD/TEA crisis-pattern monitoring) to bridge systems engineering and health data research.
 
-### 🏛️ Registro de Evidência EB-1A
-Este repositório documenta uma **Contribuição Original de Significância Maior**. Ele estabelece a ponte entre Soberania de AGI, Defesa Nacional (Zeroização Seletiva), Saúde (TEA/ASD) e Ciência de Materiais (MgB2). Documenta a transição da pesquisa teórica para a execução de Missão Crítica.
+🚀 Active Operation & Benchmarks
+The framework includes telemetry and benchmarking scripts for local experimentation.
 
----
+Monitored Parameters: Battery, thermal readings, and system/voltage telemetry via diagnostic/check modules (such as xeon_check.rs and logging utilities).
 
-### 🛠️ Tech Stack
-*   **Rust:** Interface de hardware no_std (Mission-Critical).
-*   **Python:** Dashboard Streamlit & Engine de Telemetria.
-*   **Go:** Sincronia de rede de alta concorrência (NEXUS).
+Performance & Reproducibility: Execution times, compilation overhead, and stress-test logs vary by workload and hardware state; benchmark scripts and reports in the repository document observed test runs rather than universal zero-latency guarantees.
 
----
+🏛️ Research & International Context
+This repository documents ongoing independent technical research and engineering prototypes spanning applied cryptography, systems security, distributed computing, and biomedical/health data analytics—intended to support technical review, collaborative research, and doctoral (PhD) applications in Europe.
 
-### 👤 Liderança e Autoridade
-*   **Lead Architect:** Prof. Dr. Marco Antonio
-*   **Global Strategy:** Michael Mulholland
-*   **Especialidades:** Geopolítica, Genética, Engenharia Aeroespacial, Defesa Nacional.
+🛠️ Tech Stack
+Rust: Low-level systems and hardware-interface modules (Cargo.toml, .cargo, *.rs).
 
----
+Python: Telemetry engines, data/audit scripts, and analytical tooling (*.py).
 
-### ⚖️ License (MIT)
-Copyright (c) 2024-2026 Prof. Dr. Marco Antonio
+Go: Concurrent networking and synchronization components (*.go).
+
+👤 Leadership & Contributors
+Lead Architect: Marco Antonio do Nascimento
+
+Collaborators / Strategy: Michael Mulholland
+
+Research Areas: Applied Cryptography, Systems & Hardware Security, Distributed Computing, Health/Biomedical Data Analytics.
+
+⚖️ License (MIT)
+Copyright (c) 2024–2026 Marco Antonio do Nascimento
 
 "Soli Deo Gloria"
